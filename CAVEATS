@@ -1,0 +1,6 @@
+* immunity currently works for both variants interchangeably.
+    - maybe it should be only per variant, so you could get infected from the other variant while immune to the first one?
+* incubation duration, infectious duration, immunity duration: these control boolean states - infectious yes or no, immune yes or no...
+    - instead, these should be changing over time from initial infection, according to a function that raul finds through experiments.
+* movement of humans: humans don't just move in straight lines like in the simulation.
+    - maybe we should simulate "households" with 3-6 people, and "hubs" to which the people randomly go to and from?
